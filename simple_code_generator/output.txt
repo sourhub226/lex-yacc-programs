@@ -1,0 +1,4 @@
+
+t0=b*c	mov R0,b | mul R0,c | mov t0,R0
+t1=a+t0	 mov R1,a | add R1,t0 | mov t1,R1
+d=t1	mov d,t1
